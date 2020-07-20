@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "948741981",
+    "hash" : "0",
     "id" : "5AEEB260",
     "lastKnownWriteTime" : 1594886728,
     "last_content_update" : 1594886728,
     "path" : "~/rstudio/core spatial data analysis using qgis and r/basic analysis on shapefile.R",
     "project_path" : null,
     "properties" : {
+        "cursorPosition" : "8,0",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
