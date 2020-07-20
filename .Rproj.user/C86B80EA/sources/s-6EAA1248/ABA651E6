@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3153600586",
+    "hash" : "0",
     "id" : "ABA651E6",
     "lastKnownWriteTime" : 1595260570,
     "last_content_update" : 1595260570181,
     "path" : "~/rstudio/Intermdiate spatial data analysis using R/shapefile mapping.R",
     "project_path" : "shapefile mapping.R",
     "properties" : {
-        "cursorPosition" : "66,0",
-        "scrollLine" : "54",
+        "cursorPosition" : "45,0",
+        "scrollLine" : "30",
         "tempName" : "Untitled1"
     },
     "read_only" : false,
