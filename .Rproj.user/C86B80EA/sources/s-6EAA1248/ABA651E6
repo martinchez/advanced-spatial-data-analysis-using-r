@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1595250299513.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "ABA651E6",
+    "lastKnownWriteTime" : 1595250897,
+    "last_content_update" : 1595251057463,
+    "path" : "~/rstudio/Intermdiate spatial data analysis using R/shapefile mapping.R",
+    "project_path" : "shapefile mapping.R",
+    "properties" : {
+        "cursorPosition" : "5,0",
+        "scrollLine" : "1",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

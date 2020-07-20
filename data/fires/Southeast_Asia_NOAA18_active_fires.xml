@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<gmd:fileIdentifier>
+<gco:CharacterString>1453844100689r8756877209525555</gco:CharacterString>
+</gmd:fileIdentifier>
+<gmd:language>
+<gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</gmd:LanguageCode>
+</gmd:language>
+<gmd:characterSet>
+<gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</gmd:MD_CharacterSetCode>
+</gmd:characterSet>
+<gmd:hierarchyLevel>
+<gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</gmd:MD_ScopeCode>
+</gmd:hierarchyLevel>
+<gmd:contact>
+<gmd:CI_ResponsibleParty>
+<gmd:contactInfo gco:nilReason="missing"/>
+<gmd:role>
+<gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</gmd:CI_RoleCode>
+</gmd:role>
+</gmd:CI_ResponsibleParty>
+</gmd:contact>
+<dateStamp>
+<gco:Date>2016-01-26</gco:Date>
+</dateStamp>
+<gmd:metadataStandardName>
+<gco:CharacterString>NAP - Metadata</gco:CharacterString>
+</gmd:metadataStandardName>
+<gmd:metadataStandardVersion>
+<gco:CharacterString>1.2</gco:CharacterString>
+</gmd:metadataStandardVersion>
+<gmd:spatialRepresentationInfo>
+<gmd:MD_VectorSpatialRepresentation>
+<gmd:topologyLevel>
+<gmd:MD_TopologyLevelCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopologyLevelCode" codeListValue="geometryOnly" codeSpace="ISOTC211/19115">geometryOnly</gmd:MD_TopologyLevelCode>
+</gmd:topologyLevel>
+<gmd:geometricObjects>
+<gmd:MD_GeometricObjects>
+<gmd:geometricObjectType>
+<gmd:MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="point" codeSpace="ISOTC211/19115">point</gmd:MD_GeometricObjectTypeCode>
+</gmd:geometricObjectType>
+</gmd:MD_GeometricObjects>
+</gmd:geometricObjects>
+</gmd:MD_VectorSpatialRepresentation>
+</gmd:spatialRepresentationInfo>
+<gmd:referenceSystemInfo gco:nilReason="missing"/>
+<gmd:identificationInfo>
+<gmd:MD_DataIdentification>
+<gmd:citation>
+<gmd:CI_Citation>
+<gmd:title>
+<gco:CharacterString>NOAA-18 fires</gco:CharacterString>
+</gmd:title>
+<gmd:date gco:nilReason="missing"/>
+<gmd:citedResponsibleParty gco:nilReason="missing"/>
+<gmd:presentationForm>
+<gmd:CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</gmd:CI_PresentationFormCode>
+</gmd:presentationForm>
+<gmd:otherCitationDetails>
+<gco:CharacterString>ASEAN Specialised Meteorological Centre (ASMC). Accessed through Global Forest Watch on [date]. www.globalforestwatch.org</gco:CharacterString>
+</gmd:otherCitationDetails>
+</gmd:CI_Citation>
+</gmd:citation>
+<gmd:abstract>
+<gco:CharacterString>The ASEAN Specialised Meteorological Centre (ASMC) derives coordinate locations for fire hotspots using satellite imagery provided by the National Oceanic and Atmospheric Administration satellite 18 (NOAA-18). The hotspot locations represent the center of a 1.1 km2 pixel that was determined to have fires in that pixel. The presence of fires is determined by a computer algorithm that interprets infrared satellite imagery to identify high temperature bodies on the ground such as land and forest fires. &#13;
+&#13;
+Data is archived from October 22, 2014 to present on Global Forest Watch, and is available for download in 30 day intervals.</gco:CharacterString>
+</gmd:abstract>
+<gmd:purpose>
+<gco:CharacterString>Identifies location of fire hotspots</gco:CharacterString>
+</gmd:purpose>
+<gmd:status gco:nilReason="missing"/>
+<gmd:resourceMaintenance>
+<gmd:MD_MaintenanceInformation>
+<gmd:maintenanceAndUpdateFrequency>
+<gmd:MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded" codeSpace="ISOTC211/19115">asNeeded</gmd:MD_MaintenanceFrequencyCode>
+</gmd:maintenanceAndUpdateFrequency>
+<gmd:userDefinedMaintenanceFrequency>
+<gts:TM_PeriodDuration>Daily</gts:TM_PeriodDuration>
+</gmd:userDefinedMaintenanceFrequency>
+</gmd:MD_MaintenanceInformation>
+</gmd:resourceMaintenance>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword>
+<gco:CharacterString>Downloadable Data</gco:CharacterString>
+</gmd:keyword>
+<gmd:thesaurusName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:resourceConstraints>
+<gmd:MD_Constraints>
+<gmd:useLimitation>
+<gco:CharacterString>Not all fires are detected. Fire hotspots can do undetected when an area is not covered in the NOAA-18 satellite pass, or under cloudy and overcast conditions. Limitations with the fire detection algorithm may also cause fires to go undetected.
+
+It is not recommended to use fire locations to estimate burned area due to spatial and temporal sampling issues. Detected fires may be much smaller than the 1.1 x 1.1 kilometer sampling area.</gco:CharacterString>
+</gmd:useLimitation>
+</gmd:MD_Constraints>
+</gmd:resourceConstraints>
+<gmd:spatialRepresentationType>
+<gmd:MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</gmd:MD_SpatialRepresentationTypeCode>
+</gmd:spatialRepresentationType>
+<gmd:language>
+<gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</gmd:LanguageCode>
+</gmd:language>
+<gmd:characterSet>
+<gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</gmd:MD_CharacterSetCode>
+</gmd:characterSet>
+<gmd:environmentDescription>
+<gco:CharacterString>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.3.0.4322</gco:CharacterString>
+</gmd:environmentDescription>
+<gmd:extent>
+<gmd:EX_Extent>
+<gmd:description>
+<gco:CharacterString>Southeast Asia</gco:CharacterString>
+</gmd:description>
+</gmd:EX_Extent>
+</gmd:extent>
+</gmd:MD_DataIdentification>
+</gmd:identificationInfo>
+<gmd:distributionInfo>
+<gmd:MD_Distribution>
+<gmd:distributionFormat>
+<gmd:MD_Format>
+<gmd:name>
+<gco:CharacterString>Shapefile</gco:CharacterString>
+</gmd:name>
+<gmd:version gco:nilReason="missing"/>
+</gmd:MD_Format>
+</gmd:distributionFormat>
+<gmd:transferOptions>
+<gmd:MD_DigitalTransferOptions/>
+</gmd:transferOptions>
+</gmd:MD_Distribution>
+</gmd:distributionInfo>
+<gmd:dataQualityInfo>
+<gmd:DQ_DataQuality>
+<gmd:scope gco:nilReason="missing"/>
+<gmd:lineage>
+<gmd:LI_Lineage>
+<gmd:source>
+<gmd:LI_Source>
+<gmd:description>
+<gco:CharacterString>ASEAN Specialised Meteorological Centre (ASMC)</gco:CharacterString>
+</gmd:description>
+</gmd:LI_Source>
+</gmd:source>
+</gmd:LI_Lineage>
+</gmd:lineage>
+</gmd:DQ_DataQuality>
+</gmd:dataQualityInfo>
+</gmd:MD_Metadata>
