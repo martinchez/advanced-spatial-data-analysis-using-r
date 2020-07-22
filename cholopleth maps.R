@@ -22,3 +22,24 @@ title(main = "Kenya Counties")
 
 #adding a north arrow
 north.arrow(45,0,0.2)
+
+
+library(ggplot2)
+lf<- fortify(ke_counties,region = "CONST_CODE")#Convert spatial data
+head(lf)
+p<- ggplot() +
+  geom_polygon(data=lf,
+               aes(x=long,y=lat,group=group,fill=order),#the order is the column in the data
+               color="black",size=0.25) +
+  coord_map()#this adds coordinates in the map
+p
+lf
+
+#install.packages("Cairo")
+
+library(Cairo)
+#exporting a high resolution image using ggsave
+ggsave(p,file="mapL.png",width = 6,height = 4.5,type="cairo-png")
+
+
+
