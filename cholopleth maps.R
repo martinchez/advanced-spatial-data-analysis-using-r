@@ -41,5 +41,5 @@ library(Cairo)
 #exporting a high resolution image using ggsave
 ggsave(p,file="mapL.png",width = 6,height = 4.5,type="cairo-png")
 
-
-
+?broom
+library(broom)
